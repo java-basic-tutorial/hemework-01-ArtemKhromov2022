@@ -10,7 +10,7 @@ public class Task03 {
         System.out.print(">>> ");
         int water;
         water = scanner.nextInt();
-
+//
         System.out.println("Write how many ml of milk the coffee machine has: ");
         System.out.print(">>> ");
         int milk;
